@@ -1,0 +1,16 @@
+C:\Users\biale\source\repos\ProjetoElevador1\bin\Debug\net5.0\ProjetoElevador1.exe
+C:\Users\biale\source\repos\ProjetoElevador1\bin\Debug\net5.0\ProjetoElevador1.deps.json
+C:\Users\biale\source\repos\ProjetoElevador1\bin\Debug\net5.0\ProjetoElevador1.runtimeconfig.json
+C:\Users\biale\source\repos\ProjetoElevador1\bin\Debug\net5.0\ProjetoElevador1.runtimeconfig.dev.json
+C:\Users\biale\source\repos\ProjetoElevador1\bin\Debug\net5.0\ProjetoElevador1.dll
+C:\Users\biale\source\repos\ProjetoElevador1\bin\Debug\net5.0\ProjetoElevador1.pdb
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.csproj.AssemblyReference.cache
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.AssemblyInfoInputs.cache
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.AssemblyInfo.cs
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.csproj.CoreCompileInputs.cache
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.dll
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\refint\ProjetoElevador1.dll
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.pdb
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ProjetoElevador1.genruntimeconfig.cache
+C:\Users\biale\source\repos\ProjetoElevador1\obj\Debug\net5.0\ref\ProjetoElevador1.dll
